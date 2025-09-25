@@ -2,7 +2,7 @@
 # This script runs the .securlybypass file
 
 # Make sure the .securlybypass file is executable
-chmod +x launcher.securlybypass
+chmod +x testfile.securlybypass
 
 # Run the .securlybypass file
-./launcher.securlybypass
+./testfile.securlybypass
